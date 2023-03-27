@@ -1,0 +1,5 @@
+step, amount, oldbalanceOrg, newbalanceOrig, oldbalanceDest, newbalanceDest
+1, 9839.64, 170136.0, 160296.36, 0, 0 [0]
+1, 1864.28, 21249.0, 19384.72, 0, 0 [0]
+1, 181.00, 181.00, 0, 0, 0 [1]
+1, 11668.14, 41554.0, 29885.86, 0, 0 [0]
