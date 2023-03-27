@@ -1,8 +1,8 @@
 # Anti-Money-Laundetring-System
 
-Money Laundering: Process of conversion of black money to white money.
+**Money Laundering:** Process of conversion of black money to white money.
 
-Business Problem: These systems are designed to address illegal financial activities like money laundering, terror funding, black money transfer, etc… This activity involves the movement of funds through multiple accounts in order to conceal their origin, ownership, and destination. The main aim of this system is to recognize such illegal transactions and punish the originators of these transactions to avoid such activities in the future.
+**Business Problem:** These systems are designed to address illegal financial activities like money laundering, terror funding, black money transfer, etc… This activity involves the movement of funds through multiple accounts in order to conceal their origin, ownership, and destination. The main aim of this system is to recognize such illegal transactions and punish the originators of these transactions to avoid such activities in the future.
 
 ## Stages of Money Laundering:
 1. Placement: First step in which money obtained from an illegal source is put into the financial institution.
