@@ -1,4 +1,4 @@
-# Anti-Money-Laundetring-System
+# Anti-Money-Laundering-System
 
 **Money Laundering:** Process of conversion of black money to white money.
 
